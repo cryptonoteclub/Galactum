@@ -17,7 +17,7 @@ Alternatively, it may be possible to install them using a package manager.
 sudo apt-get install build-essential libboost-all-dev git cmake
 git clone https://github.com/Sab-Barsoom/Galactum.git
 export CXXFLAGS="-std=gnu++11"
-cd Newton
+cd Galactum
 mkdir build && cd build
 cmake -DCMAKE_BUILD_TYPE=Release .. && make
 ```
