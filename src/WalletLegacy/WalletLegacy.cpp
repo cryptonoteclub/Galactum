@@ -3,6 +3,7 @@
 // Copyright (c) 2018, The Karbo Developers
 // Copyright (c) 2018, The TurtleCoin Developers
 // Copyright (c) 2018, The Newton Developers
+// Copyright (c) 2019, The Galactum Developers
 //
 // This file is part of Bytecoin.
 //

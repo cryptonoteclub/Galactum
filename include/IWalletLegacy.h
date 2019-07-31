@@ -1,7 +1,8 @@
 // Copyright (c) 2012-2017, The CryptoNote developers, The Bytecoin developers
 // Copyright (c) 2016-2018, The Karbowanec developers
 // Copyright (c) 2018, The Newton Developers
-//
+// Copyright (c) 2019, The Galactum Developers
+
 // This file is part of Bytecoin.
 //
 // Bytecoin is free software: you can redistribute it and/or modify
