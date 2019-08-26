@@ -1,6 +1,7 @@
 # Galactum
 
 Serveur Discord: https://discord.gg/Jsc9qdR
+
 Serveur Telegram: https://t.me/galactum
  
 ### On ubuntu:
