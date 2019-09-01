@@ -3,6 +3,8 @@
 Serveur Discord: https://discord.gg/Jsc9qdR
 
 Serveur Telegram: https://t.me/galactum
+
+Do not hesitate to contact us : support@galactum.site
  
 ### On ubuntu:
 
