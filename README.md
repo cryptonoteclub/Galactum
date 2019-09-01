@@ -4,7 +4,7 @@ Serveur Discord: https://discord.gg/Jsc9qdR
 
 Serveur Telegram: https://t.me/galactum
 
-Do not hesitate to contact us : support@galactum.site
+Do not hesitate to contact us for any ideas of projects or collaborations : support@galactum.site
  
 ### On ubuntu:
 
